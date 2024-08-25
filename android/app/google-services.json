@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "430155746003",
+    "project_id": "pawanimal-949c2",
+    "storage_bucket": "pawanimal-949c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430155746003:android:ebf049c66d4f950d596226",
+        "android_client_info": {
+          "package_name": "com.Paw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO1UZfNiy1aEySHflRmdiyDf5Owznc8ZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
